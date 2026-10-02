@@ -35,7 +35,7 @@
   "dependencies": {
     "node-gyp-build": "^4.8.0",
     "type-fest": "^4.26.0",
-    "uuid": "^11"
+    "uuid": "^14"
   },
   "devDependencies": {
     "@eslint/js": "^9.35.0",
@@ -63,10 +63,10 @@
     "eslint-plugin-mocha": "^10.1.0",
     "eslint-plugin-node-import": "1.0.5",
     "eslint-plugin-promise": "^7.2.1",
-    "mocha": "^11",
+    "mocha": "^12",
     "prettier": "^2.7.1",
     "prettier-plugin-packagejson": "^2.5.19",
-    "protobufjs": "^7.5.3",
+    "protobufjs": "^7.6.6",
     "rimraf": "^6.0.1",
     "sinon": "^21.0.0",
     "sinon-chai": "^4.0.1",
